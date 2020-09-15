@@ -18,4 +18,9 @@ public class IngresarCodigoActivity extends AppCompatActivity {
         Intent goToElementos = new Intent(this, ElementosActivity.class);
         startActivity(goToElementos);
     }
+
+    public void goToEscanear (View view){
+        Intent goToEscanear = new Intent(this, EscanearCodigoActivity.class);
+        startActivity(goToEscanear);
+    }
 }
