@@ -77,7 +77,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="32dp"
         android:background="@drawable/round_bg"
-        android:onClick="goToElementos"
+        android:onClick="goToIngresarCodigo"
         android:text="INGRESAR"
         android:textColor="@android:color/white"
         android:textSize="18sp"

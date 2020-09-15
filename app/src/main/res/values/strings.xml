@@ -3,4 +3,5 @@
     <string name="textoBienvenida">Ingresa o registrate para realizar los procesos necesarios para la entrega de utencilios de bioseguridad del personal</string>
     <string name="btnLogin">Ingresar</string>
     <string name="btnRegistrar">Registrarse</string>
+    <string name="textoRegistro">Registro exitoso, por favor ingrese sus credenciales</string>
 </resources>
