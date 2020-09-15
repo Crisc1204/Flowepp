@@ -14,9 +14,8 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
     }
 
-
-    public void goToElementos (View view){
-        Intent goToElementos = new Intent(this, ElementosActivity.class);
-        startActivity(goToElementos);
+    public void goToIngresarCodigo(View view){
+        Intent goToIngresarCodigo = new Intent(this, IngresarCodigoActivity.class);
+        startActivity(goToIngresarCodigo);
     }
 }
